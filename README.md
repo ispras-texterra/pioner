@@ -15,4 +15,4 @@ Armenian texts from Wikipedia, news, blogs, and encyclopedia
 
 For more details, refer to the [paper]().
 
-Download GloVe models from [here]().
+Download GloVe models from [here](https://at.ispras.ru/owncloud/index.php/s/eXNpONfB09TBpgI).
