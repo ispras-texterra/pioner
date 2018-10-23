@@ -48,6 +48,6 @@ Similar to the original embeddings published for the English language, we releas
 
 You can download GloVe models from [here](https://at.ispras.ru/owncloud/index.php/s/eXNpONfB09TBpgI).
 
-For more details, refer to the [paper]().
+For more details, refer to the [paper](https://arxiv.org/pdf/1810.08699.pdf).
 
 
